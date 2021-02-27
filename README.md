@@ -4,11 +4,11 @@
 **[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine?)**
 + **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   + Week 1
-    + [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/aleksabisercic/AI-for-medical-diagnosis/tree/main/week_1b)
+    + [Chest X-Ray Medical Diagnosis with Deep Learning]
   + Week 2
-    + [Evaluation of Diagnostic Models](https://github.com/aleksabisercic/AI-for-medical-diagnosis/tree/main/week_2)
+    + [Evaluation of Diagnostic Models]
   + Week 3
-    + [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/aleksabisercic/AI-for-medical-diagnosis/tree/main/week_3)
+    + [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)]
     ![Capture](https://user-images.githubusercontent.com/64646644/101642512-64928880-3a33-11eb-8b9b-d60f9c4d3766.PNG)
 
 
