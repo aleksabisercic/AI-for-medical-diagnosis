@@ -7,7 +7,7 @@ This repository contains the projects that I did while appling what I have leare
 + **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   + Project 1
     + [Chest X-Ray Medical Diagnosis with Deep Learning]
-    ![Capture](https://user-images.githubusercontent.com/64646644/101642512-64928880-3a33-11eb-8b9b-d60f9c4d3766.PNG)
+    ![Capture11](https://user-images.githubusercontent.com/64646644/110997417-aa862200-837d-11eb-8f0e-d7f76b4c6f11.PNG)
   + Project 2
     + [Evaluation of Diagnostic Models]
   + Project 3
