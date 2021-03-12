@@ -2,7 +2,7 @@
 
 This repository contains the projects that I did while appling what I have learend in AI for medical diagnosis course (based on Computer Vision)
 **[My Certificate of the course](https://coursera.org/share/10a2bdf18701224c0733cd8adb7c4fcd)**
-**[AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine?)**
+
 + **[AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)**
   + Project 1
     + [Chest X-Ray Medical Diagnosis with Deep Learning]
