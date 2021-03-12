@@ -19,13 +19,13 @@ Description:
 These projects go beyond the foundations of deep learning to give you insight into the nuances of applying AI to medical use cases. As a learner, I was set up for success in this program by already beeing comfortable with the math and coding behind AI algorithms. Also knowledge of deep neural networks, particularly convolutional networks, and proficiency in Python programming at an intermediate level. (Also course Deep Learning Specialization by Andrew Ng helped tremendously)
 
 End result from this is deep knowlage of: 
-• Aquered data 
-• Dealing with imbalance data sets
-• Dealing with lack of data (not enough data)
-• Leaveraging pretrained models (DenseNet, U-net etc.)
-• Varius Data augmenation methods 
-• Used appropriate loss funcions
-•	Prepared 3D MRI data and implement an appropriate loss function for image segmentation
-•	Applied pre-trained U-net (CNN) model to segment tumor regions in 3D brain MRI images. 
-•	Model identify 3 different abnormalities in each image: edemas, non-enhancing tumors, and enhancing tumors developed
-•	Only one of many projects that I applied what I have learned in AI for Medical Diagnosis certifiate (based on computer vision) (certificate) (  GitHub)
++ • Aquered data 
++ • Dealing with imbalance data sets
++ • Dealing with lack of data (not enough data)
++ • Leaveraging pretrained models (DenseNet, U-net etc.)
++ • Varius Data augmenation methods 
++ • Used appropriate loss funcions
++ •	Prepared 3D MRI data and implement an appropriate loss function for image segmentation
++ •	Applied pre-trained U-net (CNN) model to segment tumor regions in 3D brain MRI images. 
++ •	Used Heat Maps to better visualize where Network "looks" when making decision (look picture 1 in project 1)
++ •	Evalueted results using : AUC, ROC, Precison, Recall, F1 etc.
